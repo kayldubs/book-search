@@ -1,29 +1,34 @@
-# book-search
+# Google API Book Search 
 
-## Description 
+# Description
 
-Using Google Books with GraphQL and Apollo Server this Mern stack application has been refactored for the user to be able to add to a list of saved books that can be edited. 
+Using the Google Books APi in combination with Graph QL and the Apollo Server the user can create an account and add and delete books from a list
 
-## Installation 
+# Technology
 
-- open terminal and use the following steps in your terminal
-- clone repository
-- run npm install
-- npm start to access the application 
-
-## Usage
-
-*insert screenshot
-
-## Programs used 
-
-- GraphQL
-- Apollo Server 
-- Express
+- JavaScript 
+- Graph QL
+- Apollo 
+- Apollo Boost 
+- Express 
+- React 
+- Node.JS
 - MongoDB
 - Mongoose 
-- React 
 
-## Contributors
+# User Story 
 
-- Kaylee Stevens: https://github.com/kayldubs
+AS AN avid reader
+I WANT to search for new books to read
+SO THAT I can keep a list of books to purchase
+
+# installation 
+
+- clone repo 
+- npm install in terminal 
+- npm start in terminal 
+
+# SnapShot 
+
+<img width="1102" alt="Screen Shot 2022-01-25 at 2 53 41 PM" src="https://user-images.githubusercontent.com/86741633/151059882-d828dd96-5128-4c4f-8151-a3a1d2851125.png">
+
